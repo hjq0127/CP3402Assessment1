@@ -13,6 +13,8 @@ Time Limit: While no specific timeline is mentioned, we recommend setting a real
 
 Overall, this SMART goal highlights the importance of enhancing the internal design of your business website to create an engaging and effective online platform that aligns with your brand and supports your business goals. However, it did not specify a specific timeline for completion.
 
+
+
 # Learning activities and resources
 This week, I dedicated my focus to learning how to use WordPress to design and publish website-related child themes. I successfully set up a child theme specifically for creating a website using WordPress and made it accessible online. Additionally, I explored various plugins that can enhance website functionality, such as contact form plugins, and discovered visually appealing themes to enhance the overall design of the website. I also delved into the process of customizing theme names to align with specific branding requirements. Furthermore, I studied website design templates to gain insights into creating visually appealing and user-friendly websites.
 
@@ -38,6 +40,7 @@ How to Make a Website Easily (2023) Joomla Tutorial for Beginners：https://www.
 
 How do I install Joomla?（in mac）：https://documentation.mamp.info/en/MAMP-Mac/FAQ/How-do-I-install-Joomla/
 （in trouble because in mac version it is difficult for install，）
+Use Plugin with WordPress  The Most Popular and Powerful WordPress Form Builder https://wpforms.com/ppc_wordpress-form-builder/?gad_source=1&gclid=Cj0KCQiAsburBhCIARIsAExmsu5laYNT-30Cuoh818fhuzd6SVNXsHPg5hOpJjU7bDnX2dakHjHx7TsaAnatEALw_wcB
 # Estimated Time
 I spent approximately 8 hours of personal time this week studying this sub-theme, including the time spent on the Assessment1.
 # Insights on Content
